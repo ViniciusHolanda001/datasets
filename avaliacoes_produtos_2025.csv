@@ -1,0 +1,101 @@
+id_avaliacao,produto,categoria,nota,comentario,data_avaliacao,estado
+1,Produto A,Eletrônicos,5,Excelente qualidade!,2023-01-01,SP
+2,Produto A,Moda,4,"Produto bom, mas entrega atrasou.",2023-01-08,RJ
+3,Produto A,Alimentos,3,Satisfeito com a compra.,2023-01-15,MG
+4,Produto A,Casa,2,Esperava mais do produto.,2023-01-22,RS
+5,Produto A,Eletrônicos,1,Péssima experiência.,2023-01-29,BA
+6,Produto A,Moda,5,Excelente qualidade!,2023-02-05,SP
+7,Produto A,Alimentos,4,"Produto bom, mas entrega atrasou.",2023-02-12,RJ
+8,Produto A,Casa,3,Satisfeito com a compra.,2023-02-19,MG
+9,Produto A,Eletrônicos,2,Esperava mais do produto.,2023-02-26,RS
+10,Produto A,Moda,1,Péssima experiência.,2023-03-05,BA
+11,Produto A,Alimentos,5,Excelente qualidade!,2023-03-12,SP
+12,Produto A,Casa,4,"Produto bom, mas entrega atrasou.",2023-03-19,RJ
+13,Produto A,Eletrônicos,3,Satisfeito com a compra.,2023-03-26,MG
+14,Produto A,Moda,2,Esperava mais do produto.,2023-04-02,RS
+15,Produto A,Alimentos,1,Péssima experiência.,2023-04-09,BA
+16,Produto A,Casa,5,Excelente qualidade!,2023-04-16,SP
+17,Produto A,Eletrônicos,4,"Produto bom, mas entrega atrasou.",2023-04-23,RJ
+18,Produto A,Moda,3,Satisfeito com a compra.,2023-04-30,MG
+19,Produto A,Alimentos,2,Esperava mais do produto.,2023-05-07,RS
+20,Produto A,Casa,1,Péssima experiência.,2023-05-14,BA
+21,Produto A,Eletrônicos,5,Excelente qualidade!,2023-05-21,SP
+22,Produto A,Moda,4,"Produto bom, mas entrega atrasou.",2023-05-28,RJ
+23,Produto A,Alimentos,3,Satisfeito com a compra.,2023-06-04,MG
+24,Produto A,Casa,2,Esperava mais do produto.,2023-06-11,RS
+25,Produto A,Eletrônicos,1,Péssima experiência.,2023-06-18,BA
+26,Produto B,Moda,5,Excelente qualidade!,2023-06-25,SP
+27,Produto B,Alimentos,4,"Produto bom, mas entrega atrasou.",2023-07-02,RJ
+28,Produto B,Casa,3,Satisfeito com a compra.,2023-07-09,MG
+29,Produto B,Eletrônicos,2,Esperava mais do produto.,2023-07-16,RS
+30,Produto B,Moda,1,Péssima experiência.,2023-07-23,BA
+31,Produto B,Alimentos,5,Excelente qualidade!,2023-07-30,SP
+32,Produto B,Casa,4,"Produto bom, mas entrega atrasou.",2023-08-06,RJ
+33,Produto B,Eletrônicos,3,Satisfeito com a compra.,2023-08-13,MG
+34,Produto B,Moda,2,Esperava mais do produto.,2023-08-20,RS
+35,Produto B,Alimentos,1,Péssima experiência.,2023-08-27,BA
+36,Produto B,Casa,5,Excelente qualidade!,2023-09-03,SP
+37,Produto B,Eletrônicos,4,"Produto bom, mas entrega atrasou.",2023-09-10,RJ
+38,Produto B,Moda,3,Satisfeito com a compra.,2023-09-17,MG
+39,Produto B,Alimentos,2,Esperava mais do produto.,2023-09-24,RS
+40,Produto B,Casa,1,Péssima experiência.,2023-10-01,BA
+41,Produto B,Eletrônicos,5,Excelente qualidade!,2023-10-08,SP
+42,Produto B,Moda,4,"Produto bom, mas entrega atrasou.",2023-10-15,RJ
+43,Produto B,Alimentos,3,Satisfeito com a compra.,2023-10-22,MG
+44,Produto B,Casa,2,Esperava mais do produto.,2023-10-29,RS
+45,Produto B,Eletrônicos,1,Péssima experiência.,2023-11-05,BA
+46,Produto B,Moda,5,Excelente qualidade!,2023-11-12,SP
+47,Produto B,Alimentos,4,"Produto bom, mas entrega atrasou.",2023-11-19,RJ
+48,Produto B,Casa,3,Satisfeito com a compra.,2023-11-26,MG
+49,Produto B,Eletrônicos,2,Esperava mais do produto.,2023-12-03,RS
+50,Produto B,Moda,1,Péssima experiência.,2023-12-10,BA
+51,Produto C,Alimentos,5,Excelente qualidade!,2023-12-17,SP
+52,Produto C,Casa,4,"Produto bom, mas entrega atrasou.",2023-12-24,RJ
+53,Produto C,Eletrônicos,3,Satisfeito com a compra.,2023-12-31,MG
+54,Produto C,Moda,2,Esperava mais do produto.,2024-01-07,RS
+55,Produto C,Alimentos,1,Péssima experiência.,2024-01-14,BA
+56,Produto C,Casa,5,Excelente qualidade!,2024-01-21,SP
+57,Produto C,Eletrônicos,4,"Produto bom, mas entrega atrasou.",2024-01-28,RJ
+58,Produto C,Moda,3,Satisfeito com a compra.,2024-02-04,MG
+59,Produto C,Alimentos,2,Esperava mais do produto.,2024-02-11,RS
+60,Produto C,Casa,1,Péssima experiência.,2024-02-18,BA
+61,Produto C,Eletrônicos,5,Excelente qualidade!,2024-02-25,SP
+62,Produto C,Moda,4,"Produto bom, mas entrega atrasou.",2024-03-03,RJ
+63,Produto C,Alimentos,3,Satisfeito com a compra.,2024-03-10,MG
+64,Produto C,Casa,2,Esperava mais do produto.,2024-03-17,RS
+65,Produto C,Eletrônicos,1,Péssima experiência.,2024-03-24,BA
+66,Produto C,Moda,5,Excelente qualidade!,2024-03-31,SP
+67,Produto C,Alimentos,4,"Produto bom, mas entrega atrasou.",2024-04-07,RJ
+68,Produto C,Casa,3,Satisfeito com a compra.,2024-04-14,MG
+69,Produto C,Eletrônicos,2,Esperava mais do produto.,2024-04-21,RS
+70,Produto C,Moda,1,Péssima experiência.,2024-04-28,BA
+71,Produto C,Alimentos,5,Excelente qualidade!,2024-05-05,SP
+72,Produto C,Casa,4,"Produto bom, mas entrega atrasou.",2024-05-12,RJ
+73,Produto C,Eletrônicos,3,Satisfeito com a compra.,2024-05-19,MG
+74,Produto C,Moda,2,Esperava mais do produto.,2024-05-26,RS
+75,Produto C,Alimentos,1,Péssima experiência.,2024-06-02,BA
+76,Produto D,Casa,5,Excelente qualidade!,2024-06-09,SP
+77,Produto D,Eletrônicos,4,"Produto bom, mas entrega atrasou.",2024-06-16,RJ
+78,Produto D,Moda,3,Satisfeito com a compra.,2024-06-23,MG
+79,Produto D,Alimentos,2,Esperava mais do produto.,2024-06-30,RS
+80,Produto D,Casa,1,Péssima experiência.,2024-07-07,BA
+81,Produto D,Eletrônicos,5,Excelente qualidade!,2024-07-14,SP
+82,Produto D,Moda,4,"Produto bom, mas entrega atrasou.",2024-07-21,RJ
+83,Produto D,Alimentos,3,Satisfeito com a compra.,2024-07-28,MG
+84,Produto D,Casa,2,Esperava mais do produto.,2024-08-04,RS
+85,Produto D,Eletrônicos,1,Péssima experiência.,2024-08-11,BA
+86,Produto D,Moda,5,Excelente qualidade!,2024-08-18,SP
+87,Produto D,Alimentos,4,"Produto bom, mas entrega atrasou.",2024-08-25,RJ
+88,Produto D,Casa,3,Satisfeito com a compra.,2024-09-01,MG
+89,Produto D,Eletrônicos,2,Esperava mais do produto.,2024-09-08,RS
+90,Produto D,Moda,1,Péssima experiência.,2024-09-15,BA
+91,Produto D,Alimentos,5,Excelente qualidade!,2024-09-22,SP
+92,Produto D,Casa,4,"Produto bom, mas entrega atrasou.",2024-09-29,RJ
+93,Produto D,Eletrônicos,3,Satisfeito com a compra.,2024-10-06,MG
+94,Produto D,Moda,2,Esperava mais do produto.,2024-10-13,RS
+95,Produto D,Alimentos,1,Péssima experiência.,2024-10-20,BA
+96,Produto D,Casa,5,Excelente qualidade!,2024-10-27,SP
+97,Produto D,Eletrônicos,4,"Produto bom, mas entrega atrasou.",2024-11-03,RJ
+98,Produto D,Moda,3,Satisfeito com a compra.,2024-11-10,MG
+99,Produto D,Alimentos,2,Esperava mais do produto.,2024-11-17,RS
+100,Produto D,Casa,1,Péssima experiência.,2024-11-24,BA
